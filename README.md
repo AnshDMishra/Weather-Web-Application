@@ -8,6 +8,7 @@ In this weather web application, you can get the weather details of a particular
 You’ll get weather details in this app like name of city, temperature in celsius, weather conditions and wind speed in km/h.
 
 <img src="https://github.com/AnshDMishra/Weather-App/blob/main/Weather%20App.jpg" alt="Weather-App" width="900" height="500" allign="centre">
+The API provider: http://www.OpenWeatherMap.org
 
 ## Live demo 
 [Weather-App](https://codepen.io/AnshDMishra/full/VwxORxe)
