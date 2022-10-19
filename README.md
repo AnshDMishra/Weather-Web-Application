@@ -11,7 +11,7 @@ You’ll get weather details in this app like name of city, temperature in celsi
 The API provider: http://www.OpenWeatherMap.org
 
 ## Live demo 
-[Weather-App](https://codepen.io/AnshDMishra/full/VwxORxe)
+Click Here on [Weather-App](https://codepen.io/AnshDMishra/full/VwxORxe)
 
 #
 
